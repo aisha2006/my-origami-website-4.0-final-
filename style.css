@@ -1,0 +1,59 @@
+h1 {
+    color: violet
+}
+
+.header{
+    border: solid;
+    background-color: limegreen;
+    display: flex;
+    justify-content: space-around;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.item1:hover img {
+    opacity: 0.7;
+   
+}
+
+.item1:hover img {
+    opacity: 0.7;
+   
+}
+
+.item2:hover img {
+    opacity: 0.7;
+   
+}
+
+.item3:hover img {
+    opacity: 0.7;
+   
+}
+
+.item4:hover img {
+    opacity: 0.7;
+   
+}
+
+.item5:hover img {
+    opacity: 0.7;
+   
+}
+
+.item6:hover img {
+    opacity: 0.7;
+   
+}
+
+/*
+.grid2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+*/
